@@ -1,0 +1,15 @@
+{
+  "name": "atoken",
+  "version": "0.0.1",
+  "description": "Generation token for authentications ",
+  "main": "./lib/atoken.js",
+  "keywords": [
+    "token",
+    "asocio"
+  ],
+  "author": "DEADBLACKCLOVER",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Asocio/AToken/issues"
+  }
+}
