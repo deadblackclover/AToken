@@ -5,9 +5,16 @@ Generation token for authentications
 ```bash
 npm install atoken
 ```
+## Examples
+```javascript
+const atoken = require('atoken');
 
+let token = new atoken(16);
+console.log(token.generate()); //->token length 16 symbol
+```
 ## Changelog
-* `v 0.0.1` - Initial Release
+* `v 1.1.0` - Fix lib
+* `v 1.0.0` - Initial Release
 
 ## License
 GNU General Public License v3.0
