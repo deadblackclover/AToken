@@ -1,6 +1,8 @@
 # AToken
 Generation token for authentications
 
+[![NPM](https://nodei.co/npm/atoken.png?compact=true)](https://nodei.co/npm/atoken/)
+
 ## Installation
 ```bash
 npm install atoken
